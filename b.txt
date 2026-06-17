@@ -1,1 +1,2 @@
 file b
+it is a text file

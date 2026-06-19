@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 echo " total number of commits"
 git rev-list --count HEAD
 echo " number of commits per author"
